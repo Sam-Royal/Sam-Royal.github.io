@@ -1,0 +1,58 @@
+/*Skewed header*/
+.tri-header {
+    position: relative;
+    height: 450px;
+    overflow: hidden;
+}
+
+.tri-header > .header-back {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transform: skewY(-6deg);
+    transform-origin: top left;
+    filter: brightness(50%);
+}
+.tri-header > .skewed-head-wrap {
+    color: lightgoldenrodyellow;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+
+}
+
+.tri-header > .skewed-head-wrap > .skewed-head-content {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tri-header > .skewed-head-wrap > .skewed-head-content > .heading-wrap {
+    background-color: darkcyan;
+	opacity: 0.7;
+    color: rgb(0, 1, 12);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 275px;
+    padding: 10px;
+    text-align: center;
+}
+
+.tri-header > .skewed-head-wrap > .skewed-head-content > .link-wrapper > .nav-link a {
+    color: darkcyan;
+    transition: 0.9s;
+}
+
+.tri-header > .skewed-head-wrap > .skewed-head-content > .link-wrapper > .nav-link a:hover {
+    color: goldenrod ;
+    font-size: 90%;
+    font-family: 'Righteous', cursive;
+}
