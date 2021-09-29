@@ -54,5 +54,14 @@ body {
 	color: green;
 }
 #showstopper {
-	color: blue;
+	color: steelblue;
+}
+#techwizard {
+	color: darkred;
+}
+#spyware {
+	color: orangered;
+}
+#fallacy {
+	color: gold;
 }
