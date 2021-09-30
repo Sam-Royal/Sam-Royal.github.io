@@ -54,7 +54,7 @@ body {
 	color: green;
 }
 #showstopper h1{
-	color: steelblue;
+	color: darkblue;
 }
 #techwizard h1{
 	color: darkred;
@@ -66,5 +66,8 @@ body {
 	color: gold;
 }
 #bitz {
-	color: yellow;
+	color: goldenrod;
+}
+#vane {
+	color: red;
 }
