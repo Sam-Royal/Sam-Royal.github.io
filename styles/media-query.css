@@ -3,14 +3,6 @@
         flex-direction: column;
         height: 100%;
     }
-
-    .nav-wrapper > .left-column {
-        order: 2;
-        margin-top: 10px;
-        margin-bottom: 15px;
-        justify-content: center;
-    }
-
     .nav-wrapper > .center-column {
         order: 1;
         width: 100%;
@@ -23,13 +15,6 @@
     .dropdown-content {
         min-width: 350px;
     }
-
-    .nav-wrapper > .right-column {
-        order: 3;
-        margin-top: 15px;
-        justify-content: center;
-    }
-
     .link-wrapper {
         flex-direction: column;
         margin-bottom: 20px;
