@@ -27,5 +27,5 @@ background-color: #000;
 }
 table {
   border: solid #fff 2px;
-  justify-content: center;
+  align-items: center;
 }
