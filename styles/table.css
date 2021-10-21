@@ -1,7 +1,24 @@
 td {
   font-family: 'Righteous', cursive;
+  text-align: center;
 }
 th {
   font-family: 'Righteous', cursive;
   font-weight: bold;
+  text-align: center;
+}
+.xbox {
+  background-color: #6aa84f;
+}
+.play {
+  background-color: ;
+}
+.switch {
+  background-color: #cc0000;
+}
+.act {
+background-color: #000;
+}
+table {
+  border: solid #fff 2px;
 }
