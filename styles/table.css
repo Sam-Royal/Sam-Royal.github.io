@@ -1,17 +1,19 @@
 td {
   font-family: 'Righteous', cursive;
   text-align: center;
+  color: #fff;
 }
 th {
   font-family: 'Righteous', cursive;
   font-weight: bold;
   text-align: center;
+  color: #fff;
 }
 .xbox {
   background-color: #6aa84f;
 }
 .play {
-  background-color: ;
+  background-color: #1155cc;
 }
 .switch {
   background-color: #cc0000;
