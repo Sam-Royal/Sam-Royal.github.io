@@ -36,7 +36,7 @@
 }
 
 .tri-header > .skewed-head-wrap > .skewed-head-content > .heading-wrap {
-    background-color: darkcyan;
+    background-color: goldenrod;
 	opacity: 0.7;
     color: rgb(0, 1, 12);
     border-bottom-left-radius: 5px;
@@ -47,12 +47,12 @@
 }
 
 .tri-header > .skewed-head-wrap > .skewed-head-content > .link-wrapper > .nav-link a {
-    color: darkcyan;
+    color: goldenrod;
     transition: 0.9s;
 }
 
 .tri-header > .skewed-head-wrap > .skewed-head-content > .link-wrapper > .nav-link a:hover {
-    color: goldenrod ;
+    color: #674ea7ff;
     font-size: 90%;
     font-family: 'Righteous', cursive;
 }
