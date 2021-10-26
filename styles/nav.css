@@ -84,8 +84,7 @@
 
 
 .link-wrapper > .nav-link a:hover {
-    color: darkcyan ;
-    color: darkcyan ;
+    color: #674ea7ff;
     font-size: 90%;
     font-family: 'Righteous', cursive;
 }
