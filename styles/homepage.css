@@ -40,7 +40,7 @@
     align-items: center;
     font-family: 'B612 Mono', monospace;
     font-size: 75%;
-    box-shadow: inset 0px -26px 79px -8px rgba(0,0,0,0.58);
+    border-bottom: 10px solid goldenrod;
 }
 
 .features-section > .columns-wrapper {
