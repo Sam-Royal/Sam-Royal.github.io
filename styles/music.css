@@ -21,6 +21,7 @@
 	position: relative;
 	margin: 100px 0;
 	z-index: 10;
+	border: solid #674ea7ff 5px;
 }
 
 /* .img-container { */
