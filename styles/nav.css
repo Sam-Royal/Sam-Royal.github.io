@@ -2,7 +2,7 @@
 
 .nav-wrapper{
     height: 190px;
-    background-color: #023596;
+    background: -webkit-linear-gradient(bottom, #1155ccff, #9fc5e8ff);
     color: #cbcbcb;
     /* flexbox container */ 
     display: flex;
