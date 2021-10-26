@@ -1,6 +1,6 @@
 /*footer*/
 .footer {
-    background-color: #023596;
+    background: -webkit-linear-gradient(top, #1155ccff, #9fc5e8ff);
     color: #cbcbcb;
     font-family: "Roboto", sans-serif;
     display: flex;
@@ -12,10 +12,6 @@
 .social-media-icons {
     display: flex;
     justify-content: center;
-}
-
-.footer > .logo-footer img {
-    filter: brightness();
 }
 
 .copyright-wrap {
